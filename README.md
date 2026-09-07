@@ -197,34 +197,3 @@ title('Frequency Response of FIR BSF using Hanning Window');
 
 # RESULT: 
 Thus design of BAND STOP FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
-
-# RESULT: 
-Thus design of BAND STOP FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
-# RESULT: 
-Thus design of BAND STOP FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
-# RESULT: 
-Thus design of BAND STOP FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
-# RESULT: 
-Thus design of BAND STOP FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
-# RESULT: 
-Thus design of BAND STOP FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
-# Manual  Calculations :
-<img width="932" height="1501" alt="image" src="https://github.com/user-attachments/assets/3b4aa123-71c0-433c-af63-b42d5418b3f1" />
-
-
-# OUTPUT: 
-<img width="762" height="697" alt="image" src="https://github.com/user-attachments/assets/cbbefbf1-4d24-4fe3-a523-e294f06a2057" />
-<img width="552" height="727" alt="image" src="https://github.com/user-attachments/assets/3b8d2581-a326-4224-9e4b-4f8da495498a" />
-
-
-<img width="552" height="727" alt="image" src="https://github.com/user-attachments/assets/3b8d2581-a326-4224-9e4b-4f8da495498a" />
-
-
-# RESULT: 
-Thus design of BAND STOP FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
-# RESULT: 
-Thus design of BAND STOP FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
-# RESULT: 
-Thus design of BAND STOP FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
-# RESULT: 
-Thus design of BAND STOP FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
